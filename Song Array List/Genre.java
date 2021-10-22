@@ -1,0 +1,11 @@
+enum Genre
+{
+	UNKNOWN,
+	ROCK,
+	METAL,
+	COUNTRY,
+	JAZZ,
+	HIP_HOP,
+	CLASSICAL,
+	FOLK,;
+}
